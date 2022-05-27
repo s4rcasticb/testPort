@@ -1,1 +1,48 @@
 
+
+/******************* TAG SELECTOR ******************************/
+
+
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-top-width: 10px;
+    height: 2px;
+    width: 10%;
+
+}
+
+h1 {
+    color: #66BFBF;
+
+}
+
+h3 {
+    color: #66BFBF;
+    text-decoration: underline;
+
+}
+
+/******************* CLASS SELECTOR ******************************/
+
+.topics {
+    text-decoration: bold;
+    text-decoration: underline;
+}
+
+.links:hover {
+    color: blue;
+}
+
+
+/******************* ID SELECTOR ******************************/
+
+#form {
+    color: gray;
+    text-decoration: underline;
+}
